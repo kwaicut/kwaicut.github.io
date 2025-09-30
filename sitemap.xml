@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://kwaicut.github.io/index.html</loc> 
+        <lastmod>2025-09-09</lastmod>  <!-- 最后更新时间 -->
+        <changefreq>daily</changefreq> <!-- 更新频率 -->
+        <priority>1.0</priority> <!-- 页面优先级 -->
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/360qudong.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/alixiaobaiyang.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/babybus.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/capcutfree.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/idm.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/kuwomusic.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/tiktok.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>https://kwaicut.github.io/xunlei.html</loc>
+        <lastmod>2025-09-09</lastmod> 
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority> 
+    </url>
+</urlset>
